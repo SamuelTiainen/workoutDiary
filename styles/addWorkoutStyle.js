@@ -25,7 +25,7 @@ const addWorkoutStyle = StyleSheet.create({
     borderRadius: 20,
     alignItems: 'center',
     flexDirection: 'row',
-    width: '32%',  // Increased width for more space
+    width: '32%',
     justifyContent: 'center',
   },
   activeButton: {
@@ -37,7 +37,7 @@ const addWorkoutStyle = StyleSheet.create({
     borderColor: '#6200EE',
   },
   buttonText: {
-    fontSize: 14, // Reduced font size to fit longer words
+    fontSize: 14,
     fontWeight: 'bold',
     marginLeft: 8,
   },
